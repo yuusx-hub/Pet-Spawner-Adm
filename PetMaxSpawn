@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/BcVMQlsleB/0"))()
+loadstring(game:HttpGet("https://gitlab.com/rlbx-scripts/elysium/-/raw/main/adm-visual"))()
